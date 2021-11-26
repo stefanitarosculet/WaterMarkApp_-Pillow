@@ -43,8 +43,6 @@ def quit():
     root.destroy()
 
 
-# GUI should allow you to select photo / path to add images,
-#  Outgoing photo name / path
 root = tk.Tk()
 root.title("Photo Watermark App")
 
